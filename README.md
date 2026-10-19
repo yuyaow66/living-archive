@@ -2,6 +2,8 @@
 
 A personal archive of research, notes, visual references and project iterations.
 
+[Visit the archive](https://yuyaow66.github.io/living-archive/).
+
 ## Local preview
 
 Requires Node.js. No dependencies need to be installed.
@@ -24,7 +26,7 @@ Use `prototype` for Prototype 1 or Prototype 2, `category` for research, notes, 
 
 ## Credits and font files
 
-The site uses PP Neue Montreal Mono from a user-supplied personal-use package. The accompanying EULA is retained in `assets/fonts`. This repository is private; do not redistribute the font files or make the repository public. Verify the applicable web-use license before public deployment. [Pangram Pangram FAQ](https://pangrampangram.com/pages/faq) · [EULA](https://pangrampangram.com/pages/eula).
+The site uses PP Neue Montreal Mono supplied by the site owner, who has confirmed authorization for its public distribution in this project. The accompanying EULA is retained in `assets/fonts`. Inclusion here does not grant visitors permission to reuse the font files. [Pangram Pangram FAQ](https://pangrampangram.com/pages/faq) · [EULA](https://pangrampangram.com/pages/eula).
 
 Photography, artwork, paper previews and reference-site screenshots retain their original authors' rights. Inclusion in this archive does not grant a license to reuse them. Source and author information is preserved in the relevant entries.
 
