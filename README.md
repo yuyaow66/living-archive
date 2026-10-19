@@ -2,7 +2,7 @@
 
 A personal archive of research, notes, visual references and project iterations.
 
-[Visit the archive](https://yuyaow66.github.io/living-archive/).
+[Visit the archive](https://yuyao.design/living-archive/).
 
 ## Local preview
 
