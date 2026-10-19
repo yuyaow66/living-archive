@@ -1,0 +1,15 @@
+.DS_Store
+node_modules/
+.env
+.env.*
+!.env.example
+PROJECT_NOTES.md
+assets/fonts/Adobe-Text-Pro-Regular.woff2
+assets/fonts/Adobe-Text-Pro-Semibold.woff2
+assets/fonts/Neue-Haas-Unica-Pro.woff
+assets/fonts/noto-sans-jp-latin-ext.woff2
+assets/fonts/noto-sans-jp-latin.woff2
+assets/fonts/noto-serif-jp-latin-ext.woff2
+assets/fonts/noto-serif-jp-latin.woff2
+assets/fonts/notosansjp-OFL.txt
+assets/fonts/notoserifjp-OFL.txt

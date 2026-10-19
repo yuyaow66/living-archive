@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#202b3d">
+    <meta name="description" content="Yuyao Wang's Living Archive — a personal archive in progress.">
+    <title>Yuyao Wang's Living Archive</title>
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg">
+    <link rel="preload" href="./assets/fonts/PPNeueMontrealMono-Book.otf" as="font" type="font/otf" crossorigin>
+    <link rel="preload" href="./assets/fonts/PPNeueMontrealMono-Medium.otf" as="font" type="font/otf" crossorigin>
+    <link rel="stylesheet" href="./styles.css">
+    <script type="module" src="./app.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#archive">Skip to archive</a>
+    <header class="site-header" id="top">
+      <div class="header-identity">
+        <a class="wordmark" href="./" aria-label="Yuyao Wang's Living Archive, home">
+          <h1><span>Yuyao Wang's</span><span>Living Archive</span></h1>
+        </a>
+        <div class="site-clock" aria-label="Local date and time"><span class="site-clock-label">Local time</span><time id="local-date"></time><time id="local-time"></time></div>
+      </div>
+      <nav class="header-actions" aria-label="Main navigation">
+        <button class="text-button" id="open-search" aria-haspopup="dialog">Search</button>
+        <button class="text-button information-link" id="open-information" aria-haspopup="dialog">Information</button>
+        <button class="menu-button" id="toggle-filters" aria-expanded="false" aria-controls="filter-panel"><span>Filter</span><span class="plus" aria-hidden="true"></span></button>
+      </nav>
+    </header>
+
+    <section class="filter-panel" id="filter-panel" aria-label="Filter the archive" hidden>
+      <div class="filter-group prototype-filter"><h2>Prototypes</h2><div id="prototype-options"></div></div>
+      <div class="filter-group"><h2>Categories</h2><div id="category-options"></div></div>
+      <div class="filter-group"><h2>Year</h2><div id="year-options"></div></div>
+    </section>
+
+    <main id="archive">
+      <div class="archive-toolbar">
+        <div class="result-summary"><span class="muted">Results</span><span id="result-count">29</span><span class="active-description" id="active-description"></span></div>
+        <div class="view-controls">
+          <label class="sort-control"><span class="muted">Sort by</span><span class="select-wrap"><select id="sort-order" aria-label="Sort archive entries"><option value="unsystematic">Unsystematic</option><option value="newest">Newest first</option><option value="oldest">Oldest first</option><option value="number">Entry number</option></select><svg viewBox="0 0 12 12" aria-hidden="true"><path d="m3 4.5 3 3 3-3"/></svg></span></label>
+          <div class="view-switch" role="group" aria-label="Archive view">
+            <button class="icon-button" id="grid-view" aria-label="Grid view" aria-pressed="true"><svg viewBox="0 0 20 20" aria-hidden="true"><rect x="3" y="3" width="5" height="5"/><rect x="12" y="3" width="5" height="5"/><rect x="3" y="12" width="5" height="5"/><rect x="12" y="12" width="5" height="5"/></svg></button>
+            <button class="icon-button" id="list-view" aria-label="List view" aria-pressed="false"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="M3 5h14M3 10h14M3 15h14"/></svg></button>
+          </div>
+        </div>
+      </div>
+      <div class="applied-filters" id="applied-filters" hidden></div>
+      <div class="archive-grid" id="archive-grid" aria-label="Archive entries"></div>
+      <div class="empty-state" id="empty-state" hidden><h2>No entries found.</h2><p>Try a different search or return to the full collection.</p><button class="underlined-button" id="reset-empty">View all entries</button></div>
+      <div class="archive-end"><span id="archive-end-count">29 of 29 entries</span><span class="archive-end-line"></span><span>A collection in progress</span></div>
+      <noscript><p class="no-script">Please enable JavaScript to browse the archive.</p></noscript>
+    </main>
+
+    <footer class="site-footer"><p>© <span id="copyright-year">2026</span> Yuyao Wang</p><a href="#top">Back to top <span aria-hidden="true">↑</span></a></footer>
+
+    <dialog class="search-dialog" id="search-dialog" aria-labelledby="search-heading">
+      <div class="dialog-bar"><h2 id="search-heading">Search the archive</h2><button class="close-button" data-close="search-dialog" aria-label="Close search"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="m4 4 12 12M16 4 4 16"/></svg></button></div>
+      <form id="search-form"><label class="sr-only" for="search-input">Search by title, version, category, year, or entry number</label><div class="search-field"><input type="search" id="search-input" name="search" placeholder="Search for something…" autocomplete="off"><button class="search-submit" type="submit" aria-label="Search archive"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="6.5"/><path d="m15 15 6 6"/></svg></button></div><p class="search-hint">Search by title, version, category, year, or entry number.</p></form>
+      <div class="suggestions"><h3>Suggestions</h3><div id="search-suggestions"></div></div>
+    </dialog>
+
+    <dialog class="information-dialog" id="information-dialog" aria-labelledby="information-heading">
+      <div class="dialog-bar"><span>Information</span><button class="close-button" data-close="information-dialog" aria-label="Close information"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="m4 4 12 12M16 4 4 16"/></svg></button></div>
+      <div class="information-body"><h2 id="information-heading">Yuyao Wang's<br>Living Archive</h2><div class="information-copy"><p class="information-intro">A personal archive.</p><p>Research, notes, visual references and project iterations for Prototype 1 and Prototype 2, collected by Yuyao Wang.</p><dl><div><dt>Elsewhere</dt><dd><a href="https://yuyao.design/" target="_blank" rel="noopener">yuyao.design</a></dd></div></dl><p class="information-footnote">An archive in progress.</p></div></div>
+    </dialog>
+
+    <dialog class="entry-dialog" id="entry-dialog" aria-labelledby="entry-index entry-title">
+      <div class="dialog-bar"><span id="entry-index"></span><button class="close-button" data-close="entry-dialog" aria-label="Close entry"><svg viewBox="0 0 20 20" aria-hidden="true"><path d="m4 4 12 12M16 4 4 16"/></svg></button></div>
+      <div class="entry-detail" id="entry-detail"></div>
+      <nav class="entry-pagination" aria-label="Browse entries"><button class="text-button" id="previous-entry">← Previous</button><span id="entry-position" aria-live="polite"></span><button class="text-button" id="next-entry">Next →</button></nav>
+    </dialog>
+    <p class="sr-only" id="live-status" role="status" aria-live="polite"></p>
+  </body>
+</html>
