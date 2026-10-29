@@ -18,9 +18,9 @@ The site uses plain HTML, CSS and JavaScript. It can be served from the reposito
 
 ## Archive content
 
-`data.js` contains 75 real entries: 1 iteration, 3 notes, 6 research entries and 65 references. Prototype 1 contains 26 entries; Prototype 2 contains 49.
+`data.js` contains 77 real entries: 3 iterations, 3 notes, 6 research entries and 65 references. Prototype 1 contains 26 entries; Prototype 2 contains 51.
 
-New entries use the existing card and detail templates. Keep each internal ID unique and preserve existing IDs. The next available ID is 101. Display numbers are continuous, currently 01–75, and remain the same across searches, filters and sort orders.
+New entries use the existing card and detail templates. Keep each internal ID unique and preserve existing IDs. The next available ID is 103. Display numbers are continuous, currently 01–77, and remain the same across searches, filters and sort orders.
 
 Use `prototype` for Prototype 1 or Prototype 2, `category` for research, notes, reference or iterations, and `year` for the archive year. Store publication dates separately. Add real content and accurate image dimensions, descriptions, credits and source links where available.
 
@@ -29,6 +29,10 @@ Use `prototype` for Prototype 1 or Prototype 2, `category` for research, notes, 
 All 49 photographs recorded for *Homesick Here* are archived under Prototype 2: 48 used in the current book and one from an earlier colophon. Three existing Cui Cui entries are reused; 46 new photographs have been added. Search for `Homesick Here`, a book section, photographer or source filename to find them. Photo details show titles, photographer credits and source links without descriptions.
 
 Original image files and thumbnails are stored in `assets/book-photos`; the three existing high-resolution Cui Cui originals remain in `assets/prototype-2`. Full source records, credits, source URLs, original filenames, SHA-256 hashes and archive entry IDs are preserved in `assets/book-photos/sources.json`. Page numbers in that provenance file come from the original manifest and may refer to earlier layouts.
+
+## Book iterations
+
+Two *Homesick Here* layouts are filed under Prototype 2 → iterations: **Iteration 1: Homesick Here** (original layout) and **Iteration 2: Homesick Here** (Zine Layout v2). Each includes all 33 spreads and its complete 64-page PDF. The saved exports are from 26 and 28 October 2026 respectively. Preview images preserve the exported page layouts; both entry previews show pages 28–29 for comparison.
 
 ## Credits and font files
 

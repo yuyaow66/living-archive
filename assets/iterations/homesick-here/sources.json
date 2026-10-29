@@ -1,0 +1,30 @@
+[
+  {
+    "iteration": 1,
+    "archiveEntryId": 101,
+    "title": "Iteration 1: Homesick Here",
+    "sourcePDF": "Homesick Here - pages.pdf",
+    "sourceSpreadsPDF": "Homesick Here - spreads.pdf",
+    "pdfSha256": "a1a29f00f79fdd4fbe686677a657dfa1fc4bae95bb6e73384f9db35b78098ab4",
+    "sourceSpreadsSha256": "86fffd73d6fdeeb35400e99fabe6073680d5fbc942dee5c28aef5b4fff96735e",
+    "pageCount": 64,
+    "spreadCount": 33,
+    "document": "assets/iterations/homesick-here/iteration-1.pdf",
+    "heroSpreadNumber": 15,
+    "exportedAt": "2026-10-26T19:25:00-04:00"
+  },
+  {
+    "iteration": 2,
+    "archiveEntryId": 102,
+    "title": "Iteration 2: Homesick Here",
+    "sourcePDF": "Homesick Here - Zine Layout v2 - pages.pdf",
+    "sourceSpreadsPDF": "Homesick Here - Zine Layout v2 - spreads.pdf",
+    "pdfSha256": "928fcdd9122c7045245fdbe64ffc57dfa34625a69c6a0188f1ff1a64cd2bf784",
+    "sourceSpreadsSha256": "1ea0c28c722d85c7282d13659fd51a738fab01b4a19fc2f94489baa98af07ad4",
+    "pageCount": 64,
+    "spreadCount": 33,
+    "document": "assets/iterations/homesick-here/iteration-2.pdf",
+    "heroSpreadNumber": 15,
+    "exportedAt": "2026-10-28T18:48:00-04:00"
+  }
+]

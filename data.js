@@ -2747,5 +2747,597 @@ export const entries = [
       "usageStatus": "historical",
       "includedInLatestBook": false
     }
+  },
+  {
+    "id": 101,
+    "title": "Iteration 1: Homesick Here",
+    "prototype": "Prototype 2",
+    "category": "iterations",
+    "year": "2026",
+    "orientation": "landscape",
+    "tone": "slate",
+    "image": "./assets/iterations/homesick-here/iteration-1/hero-thumb.webp",
+    "detailImage": "./assets/iterations/homesick-here/iteration-1/spread-15.webp",
+    "imageWidth": 1200,
+    "imageHeight": 938,
+    "imageLink": false,
+    "alt": "Homesick Here original layout, pages 28–29.",
+    "author": "Yuyao Wang",
+    "source": "Original layout",
+    "document": {
+      "src": "./assets/iterations/homesick-here/iteration-1.pdf",
+      "label": "View full PDF"
+    },
+    "tags": [
+      "Homesick Here",
+      "book",
+      "layout",
+      "iteration",
+      "Iteration 1",
+      "original layout",
+      "64 pages"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-01.webp",
+        "width": 768,
+        "height": 1200,
+        "caption": "Cover · page 1",
+        "alt": "Homesick Here, iteration 1, cover · page 1"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-02.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 2–3",
+        "alt": "Homesick Here, iteration 1, pages 2–3"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-03.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 4–5",
+        "alt": "Homesick Here, iteration 1, pages 4–5"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-04.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 6–7",
+        "alt": "Homesick Here, iteration 1, pages 6–7"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-05.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 8–9",
+        "alt": "Homesick Here, iteration 1, pages 8–9"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-06.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 10–11",
+        "alt": "Homesick Here, iteration 1, pages 10–11"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-07.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 12–13",
+        "alt": "Homesick Here, iteration 1, pages 12–13"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-08.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 14–15",
+        "alt": "Homesick Here, iteration 1, pages 14–15"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-09.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 16–17",
+        "alt": "Homesick Here, iteration 1, pages 16–17"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-10.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 18–19",
+        "alt": "Homesick Here, iteration 1, pages 18–19"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-11.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 20–21",
+        "alt": "Homesick Here, iteration 1, pages 20–21"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-12.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 22–23",
+        "alt": "Homesick Here, iteration 1, pages 22–23"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-13.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 24–25",
+        "alt": "Homesick Here, iteration 1, pages 24–25"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-14.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 26–27",
+        "alt": "Homesick Here, iteration 1, pages 26–27"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-15.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 28–29",
+        "alt": "Homesick Here, iteration 1, pages 28–29"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-16.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 30–31",
+        "alt": "Homesick Here, iteration 1, pages 30–31"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-17.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 32–33",
+        "alt": "Homesick Here, iteration 1, pages 32–33"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-18.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 34–35",
+        "alt": "Homesick Here, iteration 1, pages 34–35"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-19.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 36–37",
+        "alt": "Homesick Here, iteration 1, pages 36–37"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-20.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 38–39",
+        "alt": "Homesick Here, iteration 1, pages 38–39"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-21.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 40–41",
+        "alt": "Homesick Here, iteration 1, pages 40–41"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-22.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 42–43",
+        "alt": "Homesick Here, iteration 1, pages 42–43"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-23.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 44–45",
+        "alt": "Homesick Here, iteration 1, pages 44–45"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-24.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 46–47",
+        "alt": "Homesick Here, iteration 1, pages 46–47"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-25.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 48–49",
+        "alt": "Homesick Here, iteration 1, pages 48–49"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-26.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 50–51",
+        "alt": "Homesick Here, iteration 1, pages 50–51"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-27.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 52–53",
+        "alt": "Homesick Here, iteration 1, pages 52–53"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-28.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 54–55",
+        "alt": "Homesick Here, iteration 1, pages 54–55"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-29.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 56–57",
+        "alt": "Homesick Here, iteration 1, pages 56–57"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-30.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 58–59",
+        "alt": "Homesick Here, iteration 1, pages 58–59"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-31.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 60–61",
+        "alt": "Homesick Here, iteration 1, pages 60–61"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-32.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 62–63",
+        "alt": "Homesick Here, iteration 1, pages 62–63"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-1/spread-33.webp",
+        "width": 768,
+        "height": 1200,
+        "caption": "Page 64",
+        "alt": "Homesick Here, iteration 1, page 64"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "title": "Iteration 2: Homesick Here",
+    "prototype": "Prototype 2",
+    "category": "iterations",
+    "year": "2026",
+    "orientation": "landscape",
+    "tone": "slate",
+    "image": "./assets/iterations/homesick-here/iteration-2/hero-thumb.webp",
+    "detailImage": "./assets/iterations/homesick-here/iteration-2/spread-15.webp",
+    "imageWidth": 1200,
+    "imageHeight": 938,
+    "imageLink": false,
+    "alt": "Homesick Here Zine Layout v2, pages 28–29.",
+    "author": "Yuyao Wang",
+    "source": "Zine Layout v2",
+    "document": {
+      "src": "./assets/iterations/homesick-here/iteration-2.pdf",
+      "label": "View full PDF"
+    },
+    "tags": [
+      "Homesick Here",
+      "book",
+      "layout",
+      "iteration",
+      "Iteration 2",
+      "Zine Layout v2",
+      "64 pages"
+    ],
+    "media": [
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-01.webp",
+        "width": 768,
+        "height": 1200,
+        "caption": "Cover · page 1",
+        "alt": "Homesick Here, iteration 2, cover · page 1"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-02.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 2–3",
+        "alt": "Homesick Here, iteration 2, pages 2–3"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-03.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 4–5",
+        "alt": "Homesick Here, iteration 2, pages 4–5"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-04.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 6–7",
+        "alt": "Homesick Here, iteration 2, pages 6–7"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-05.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 8–9",
+        "alt": "Homesick Here, iteration 2, pages 8–9"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-06.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 10–11",
+        "alt": "Homesick Here, iteration 2, pages 10–11"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-07.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 12–13",
+        "alt": "Homesick Here, iteration 2, pages 12–13"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-08.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 14–15",
+        "alt": "Homesick Here, iteration 2, pages 14–15"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-09.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 16–17",
+        "alt": "Homesick Here, iteration 2, pages 16–17"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-10.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 18–19",
+        "alt": "Homesick Here, iteration 2, pages 18–19"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-11.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 20–21",
+        "alt": "Homesick Here, iteration 2, pages 20–21"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-12.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 22–23",
+        "alt": "Homesick Here, iteration 2, pages 22–23"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-13.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 24–25",
+        "alt": "Homesick Here, iteration 2, pages 24–25"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-14.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 26–27",
+        "alt": "Homesick Here, iteration 2, pages 26–27"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-15.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 28–29",
+        "alt": "Homesick Here, iteration 2, pages 28–29"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-16.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 30–31",
+        "alt": "Homesick Here, iteration 2, pages 30–31"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-17.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 32–33",
+        "alt": "Homesick Here, iteration 2, pages 32–33"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-18.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 34–35",
+        "alt": "Homesick Here, iteration 2, pages 34–35"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-19.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 36–37",
+        "alt": "Homesick Here, iteration 2, pages 36–37"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-20.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 38–39",
+        "alt": "Homesick Here, iteration 2, pages 38–39"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-21.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 40–41",
+        "alt": "Homesick Here, iteration 2, pages 40–41"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-22.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 42–43",
+        "alt": "Homesick Here, iteration 2, pages 42–43"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-23.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 44–45",
+        "alt": "Homesick Here, iteration 2, pages 44–45"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-24.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 46–47",
+        "alt": "Homesick Here, iteration 2, pages 46–47"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-25.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 48–49",
+        "alt": "Homesick Here, iteration 2, pages 48–49"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-26.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 50–51",
+        "alt": "Homesick Here, iteration 2, pages 50–51"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-27.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 52–53",
+        "alt": "Homesick Here, iteration 2, pages 52–53"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-28.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 54–55",
+        "alt": "Homesick Here, iteration 2, pages 54–55"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-29.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 56–57",
+        "alt": "Homesick Here, iteration 2, pages 56–57"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-30.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 58–59",
+        "alt": "Homesick Here, iteration 2, pages 58–59"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-31.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 60–61",
+        "alt": "Homesick Here, iteration 2, pages 60–61"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-32.webp",
+        "width": 1200,
+        "height": 938,
+        "caption": "Pages 62–63",
+        "alt": "Homesick Here, iteration 2, pages 62–63"
+      },
+      {
+        "type": "image",
+        "src": "./assets/iterations/homesick-here/iteration-2/spread-33.webp",
+        "width": 768,
+        "height": 1200,
+        "caption": "Page 64",
+        "alt": "Homesick Here, iteration 2, page 64"
+      }
+    ]
   }
 ];

@@ -146,11 +146,12 @@ function openEntry(id) {
     entry.status ? `<div><dt>Status</dt><dd>${escapeHTML(entry.status)}</dd></div>` : ''
   ].join('');
   const imageAction = entry.detailImage && entry.imageLink !== false ? `<a class="media-open" href="${escapeHTML(entry.detailImage)}" target="_blank" rel="noopener" aria-label="View ${escapeHTML(entry.title)} at full size">View image</a>` : '';
+  const documentAction = /^\.\/assets\/(?:[A-Za-z0-9_-]+\/)*[A-Za-z0-9_-]+\.pdf$/i.test(entry.document?.src || '') ? `<a class="media-open" href="${escapeHTML(entry.document.src)}" target="_blank" rel="noopener" aria-label="${escapeHTML(entry.document.label || 'View PDF')}: ${escapeHTML(entry.title)}">${escapeHTML(entry.document.label || 'View PDF')}</a>` : '';
   const externalLinks = [entry.website ? { label: entry.websiteLabel || 'Visit website', url: entry.website } : null, ...(entry.links || [])].filter((link) => link && /^https?:\/\//i.test(link.url || ''));
   const websiteActions = externalLinks.map((link) => `<a class="media-open" href="${escapeHTML(link.url)}" target="_blank" rel="noopener" aria-label="${escapeHTML(link.label)}: ${escapeHTML(entry.title)}">${escapeHTML(link.label)}</a>`).join('');
   const description = entry.description ? `<p class="detail-description">${escapeHTML(entry.description)}</p>` : '';
   const prototypeMetadata = entry.prototype ? `<div><dt>Version</dt><dd>${escapeHTML(entry.prototype)}</dd></div>` : '';
-  document.querySelector('#entry-detail').innerHTML = `<div class="detail-image">${mediaMarkup(entry, true)}</div><div class="detail-copy"><h2 id="entry-title">${escapeHTML(entry.fullTitle || entry.title)}</h2>${description}<dl>${prototypeMetadata}<div><dt>Category</dt><dd>${escapeHTML(entry.category)}</dd></div><div><dt>Year</dt><dd>${escapeHTML(entry.year)}</dd></div>${additionalMetadata}</dl><div class="detail-actions">${websiteActions}${imageAction}</div></div>${galleryMarkup(entry)}`;
+  document.querySelector('#entry-detail').innerHTML = `<div class="detail-image">${mediaMarkup(entry, true)}</div><div class="detail-copy"><h2 id="entry-title">${escapeHTML(entry.fullTitle || entry.title)}</h2>${description}<dl>${prototypeMetadata}<div><dt>Category</dt><dd>${escapeHTML(entry.category)}</dd></div><div><dt>Year</dt><dd>${escapeHTML(entry.year)}</dd></div>${additionalMetadata}</dl><div class="detail-actions">${documentAction}${websiteActions}${imageAction}</div></div>${galleryMarkup(entry)}`;
   document.querySelector('#entry-position').textContent = `${index + 1} / ${visibleEntries.length}`;
   const previousButton = document.querySelector('#previous-entry');
   const nextButton = document.querySelector('#next-entry');

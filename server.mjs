@@ -18,6 +18,7 @@ const types = {
   '.webp': 'image/webp',
   '.avif': 'image/avif',
   '.mp4': 'video/mp4',
+  '.pdf': 'application/pdf',
   '.otf': 'font/otf',
   '.woff': 'font/woff',
   '.woff2': 'font/woff2',
