@@ -6,7 +6,6 @@ export const entries = [
     "year": "2026",
     "orientation": "landscape",
     "tone": "slate",
-    "description": "A personal research archive exploring how social expectations shape Chinese women’s lives, through interviews, family photographs and film references.",
     "dateLabel": "12 October 2026",
     "image": "./assets/iterations/prototype-1-cover.webp",
     "detailImage": "./assets/iterations/prototype-1-current-homepage.webp",
@@ -67,7 +66,6 @@ export const entries = [
     "year": "2026",
     "orientation": "square",
     "tone": "chalk",
-    "description": "Handwritten reflections on interviews: personal wishes, care across generations, expectations of daughters, and finding time and space of one’s own.",
     "image": "./assets/notes/interview-notes-thumb.webp",
     "detailImage": "./assets/notes/interview-notes.jpg",
     "imageWidth": 4000,
@@ -91,7 +89,6 @@ export const entries = [
     "year": "2026",
     "orientation": "square",
     "tone": "chalk",
-    "description": "Handwritten reading notes on family resources, gender expectations, career and marriage, and the relationship between paid work and care.",
     "image": "./assets/notes/research-notes-thumb.webp",
     "detailImage": "./assets/notes/research-notes.jpg",
     "imageWidth": 4000,
@@ -117,7 +114,6 @@ export const entries = [
     "year": "2026",
     "orientation": "square",
     "tone": "chalk",
-    "description": "A handwritten map of the project’s questions, connecting everyday remarks, interviews, films and books with work, family, boundaries and women’s life choices.",
     "image": "./assets/notes/research-map-thumb.webp",
     "detailImage": "./assets/notes/research-map.jpg",
     "imageWidth": 4000,
@@ -141,7 +137,6 @@ export const entries = [
     "author": "Vanessa L. Fong",
     "published": "2002",
     "source": "American Anthropologist 104(4), 1098–1109",
-    "description": "Family investment in only daughters, educational opportunities and changing gender expectations. This reading frames questions about what families make possible for daughters, and what they expect in return.",
     "website": "https://doi.org/10.1525/aa.2002.104.4.1098",
     "tags": [
       "education",
@@ -180,7 +175,6 @@ export const entries = [
     "author": "Sandy To",
     "published": "2013",
     "source": "Symbolic Interaction 36(1), 1–20",
-    "description": "Professional women negotiating marriage expectations alongside career ambitions. This reading connects the interviews with questions of family approval, partnership and women’s own plans.",
     "website": "https://doi.org/10.1002/symb.46",
     "tags": [
       "marriage",
@@ -219,7 +213,6 @@ export const entries = [
     "author": "Lingsheng Meng, Yunbin Zhang and Ben Zou",
     "published": "2023",
     "source": "Journal of Comparative Economics 51(1), 105–132",
-    "description": "Childbirth, women’s employment and earnings, and the role of grandparents’ childcare. This reading connects mothers’ working lives with grandmothers’ care responsibilities across generations.",
     "website": "https://doi.org/10.1016/j.jce.2022.10.005",
     "tags": [
       "work",
@@ -259,7 +252,6 @@ export const entries = [
     "author": "Rujun Yang",
     "published": "2023",
     "source": "International Journal of Comparative Sociology 64(5), 454–480",
-    "description": "Gender beliefs across generations, places and genders in China. This reading gives context to differences among daughters, mothers and grandmothers, alongside place and social circumstances.",
     "website": "https://doi.org/10.1177/00207152221147493",
     "tags": [
       "generation",
@@ -298,7 +290,6 @@ export const entries = [
     "author": "Ye Liu",
     "published": "2024; online 2023",
     "source": "Sociology 58(1), 175–193",
-    "description": "Educated women from the one-child generation responding to ideals of talent and feminine virtue. This reading links education, work and family with the expectations women negotiate over the course of their lives.",
     "website": "https://doi.org/10.1177/00380385231160033",
     "tags": [
       "identity",
@@ -610,7 +601,6 @@ export const entries = [
     "title": "Daido Moriyama",
     "website": "https://www.moriyamadaido.com/",
     "source": "moriyamadaido.com",
-    "description": "The official photography website of Daido Moriyama, with a gallery, biography, bibliography and news.",
     "alt": "The Daido Moriyama website homepage, displaying a full-screen black-and-white photograph.",
     "tags": [
       "photography",
@@ -638,7 +628,6 @@ export const entries = [
     "title": "Lifetime of Fukase",
     "website": "https://masahisafukase.com/timeline/",
     "source": "Masahisa Fukase Archives",
-    "description": "A photographic timeline of Masahisa Fukase’s life and work, from the Masahisa Fukase Archives.",
     "alt": "The Lifetime of Fukase webpage, with a large heading and a black-and-white family photograph.",
     "tags": [
       "photography",
@@ -667,7 +656,6 @@ export const entries = [
     "title": "Käthe Kollwitz Memorial",
     "website": "https://kathememorial.com/",
     "source": "kathememorial.com",
-    "description": "An interactive memorial website exploring Käthe Kollwitz’s life and artwork.",
     "alt": "The Käthe Kollwitz Memorial entry screen, with white typography and an Enter button on a dark background.",
     "tags": [
       "art",
@@ -696,7 +684,6 @@ export const entries = [
     "title": "怪物 / Monster",
     "website": "https://gaga.ne.jp/kaibutsu-movie/",
     "source": "GAGA",
-    "description": "The official Japanese website for Monster (怪物), directed by Hirokazu Kore-eda.",
     "alt": "The Monster film website, with a red background, Japanese title and photographs of the cast.",
     "tags": [
       "film",
@@ -871,7 +858,6 @@ export const entries = [
     "alt": "Handwritten social remarks on white paper strips, arranged in rows on a black background.",
     "author": "Yuyao Wang",
     "source": "A Shape of Her",
-    "description": "Handwritten social remarks about girlhood, education, appearance, work, marriage and care, collected on paper strips.",
     "tags": [
       "social remarks",
       "A Shape of Her",

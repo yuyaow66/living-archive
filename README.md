@@ -26,7 +26,7 @@ Use `prototype` for Prototype 1 or Prototype 2, `category` for research, notes, 
 
 ## Homesick Here photographs
 
-All 49 photographs recorded for *Homesick Here* are archived under Prototype 2: 48 used in the current book and one from an earlier colophon. Three existing Cui Cui entries are reused; 46 new photographs have been added. Search for `Homesick Here`, a book section, photographer or source filename to find them. Photo details show titles, photographer credits and source links without descriptions.
+All 49 photographs recorded for *Homesick Here* are archived under Prototype 2: 48 used in the current book and one from an earlier colophon. Three existing Cui Cui entries are reused; 46 new photographs have been added. Search for `Homesick Here`, a book section, photographer or source filename to find them. All entry details show titles, media, credits and source links without descriptions.
 
 Original image files and thumbnails are stored in `assets/book-photos`; the three existing high-resolution Cui Cui originals remain in `assets/prototype-2`. Full source records, credits, source URLs, original filenames, SHA-256 hashes and archive entry IDs are preserved in `assets/book-photos/sources.json`. Page numbers in that provenance file come from the original manifest and may refer to earlier layouts.
 
