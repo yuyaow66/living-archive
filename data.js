@@ -3325,5 +3325,617 @@ export const entries = [
         "alt": "Homesick Here, iteration 2, page 64"
       }
     ]
+  },
+  {
+    "id": 103,
+    "title": "Solastalgia",
+    "fullTitle": "Solastalgia: the distress caused by environmental change",
+    "prototype": "Prototype 2",
+    "category": "research",
+    "year": "2026",
+    "kind": "publication",
+    "orientation": "portrait",
+    "tone": "slate",
+    "image": "./assets/research/solastalgia/source-001-thumb.webp",
+    "detailImage": "./assets/research/solastalgia/source-001.webp",
+    "imageWidth": 916,
+    "imageHeight": 1200,
+    "alt": "Solastalgia: the distress caused by environmental change — original source page preview.",
+    "author": "Glenn Albrecht, Gina-Maree Sartore, Linda Connor, Nick Higginbotham, Sonia Freeman, Brian Kelly, Helen Stain, Anne Tonna and Georgia Pollard",
+    "published": "2007",
+    "source": "Australasian Psychiatry 15, supplement 1 (2007), S95–S98",
+    "website": "https://doi.org/10.1080/10398560701701288",
+    "websiteLabel": "Read original",
+    "tags": [
+      "Homesick Here",
+      "Solastalgia",
+      "book sources",
+      "articles",
+      "publication",
+      "literature",
+      "Journal article",
+      "Glenn Albrecht, Gina-Maree Sartore, Linda Connor, Nick Higginbotham, Sonia Freeman, Brian Kelly, Helen Stain, Anne Tonna and Georgia Pollard"
+    ],
+    "publicationType": "Journal article",
+    "book": {
+      "title": "Homesick Here",
+      "sourceId": 1,
+      "creditPage": 58
+    },
+    "previewSource": "https://doi.org/10.1080/10398560701701288",
+    "previewType": "original-pdf-page"
+  },
+  {
+    "id": 104,
+    "title": "Mapping solastalgia",
+    "fullTitle": "Mapping the Solastalgia Literature: A Scoping Review Study",
+    "prototype": "Prototype 2",
+    "category": "research",
+    "year": "2026",
+    "kind": "publication",
+    "orientation": "portrait",
+    "tone": "slate",
+    "image": "./assets/research/solastalgia/source-014-thumb.webp",
+    "detailImage": "./assets/research/solastalgia/source-014.webp",
+    "imageWidth": 849,
+    "imageHeight": 1200,
+    "alt": "Mapping the Solastalgia Literature: A Scoping Review Study — original source page preview.",
+    "author": "Lindsay P. Galway, Thomas Beery, Kelsey Jones-Casey and Kirsti Tasala",
+    "published": "2019",
+    "source": "International Journal of Environmental Research and Public Health 16(15) (25 July 2019), 2662",
+    "website": "https://doi.org/10.3390/ijerph16152662",
+    "websiteLabel": "Read original",
+    "tags": [
+      "Homesick Here",
+      "Solastalgia",
+      "book sources",
+      "articles",
+      "publication",
+      "literature",
+      "Journal article",
+      "Lindsay P. Galway, Thomas Beery, Kelsey Jones-Casey and Kirsti Tasala"
+    ],
+    "publicationType": "Journal article",
+    "book": {
+      "title": "Homesick Here",
+      "sourceId": 14,
+      "creditPage": 58
+    },
+    "previewSource": "https://mdpi-res.com/d_attachment/ijerph/ijerph-16-02662/article_deploy/ijerph-16-02662.pdf",
+    "previewType": "original-pdf-page",
+    "document": {
+      "src": "./assets/research/solastalgia/source-014.pdf",
+      "label": "View PDF"
+    },
+    "links": [
+      {
+        "label": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "title": "The stones know me",
+    "fullTitle": "The Importance of Place Attachment in the Understanding of Ageing in Place: “The Stones Know Me”",
+    "prototype": "Prototype 2",
+    "category": "research",
+    "year": "2026",
+    "kind": "publication",
+    "orientation": "portrait",
+    "tone": "slate",
+    "image": "./assets/research/solastalgia/source-012-thumb.webp",
+    "detailImage": "./assets/research/solastalgia/source-012.webp",
+    "imageWidth": 849,
+    "imageHeight": 1200,
+    "alt": "The Importance of Place Attachment in the Understanding of Ageing in Place: “The Stones Know Me” — original source page preview.",
+    "author": "Irene Lebrusán and M. Victoria Gómez",
+    "published": "2022",
+    "source": "International Journal of Environmental Research and Public Health 19(24) (19 December 2022), 17052",
+    "website": "https://doi.org/10.3390/ijerph192417052",
+    "websiteLabel": "Read original",
+    "tags": [
+      "Homesick Here",
+      "Solastalgia",
+      "book sources",
+      "articles",
+      "publication",
+      "literature",
+      "Journal article",
+      "Irene Lebrusán and M. Victoria Gómez"
+    ],
+    "publicationType": "Journal article",
+    "book": {
+      "title": "Homesick Here",
+      "sourceId": 12,
+      "creditPage": 59
+    },
+    "previewSource": "https://mdpi-res.com/d_attachment/ijerph/ijerph-19-17052/article_deploy/ijerph-19-17052.pdf",
+    "previewType": "original-pdf-page",
+    "document": {
+      "src": "./assets/research/solastalgia/source-012.pdf",
+      "label": "View PDF"
+    },
+    "links": [
+      {
+        "label": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "title": "Imagined places of the past",
+    "fullTitle": "Imagined places of the past: the interplay of time and memory in the maintenance of place attachment",
+    "prototype": "Prototype 2",
+    "category": "research",
+    "year": "2026",
+    "kind": "publication",
+    "orientation": "portrait",
+    "tone": "slate",
+    "image": "./assets/research/solastalgia/source-011-thumb.webp",
+    "detailImage": "./assets/research/solastalgia/source-011.webp",
+    "imageWidth": 904,
+    "imageHeight": 1200,
+    "alt": "Imagined places of the past: the interplay of time and memory in the maintenance of place attachment — original source page preview.",
+    "author": "Michael J. Lomas, Eunice Ayodeji and Philip Brown",
+    "published": "2024",
+    "source": "Current Psychology 43 (2024), 2618–2629; first published online 15 March 2023",
+    "website": "https://doi.org/10.1007/s12144-023-04421-7",
+    "websiteLabel": "Read original",
+    "tags": [
+      "Homesick Here",
+      "Solastalgia",
+      "book sources",
+      "articles",
+      "publication",
+      "literature",
+      "Journal article",
+      "Michael J. Lomas, Eunice Ayodeji and Philip Brown"
+    ],
+    "publicationType": "Journal article",
+    "book": {
+      "title": "Homesick Here",
+      "sourceId": 11,
+      "creditPage": 59
+    },
+    "previewSource": "https://link.springer.com/content/pdf/10.1007/s12144-023-04421-7.pdf",
+    "previewType": "original-pdf-page",
+    "document": {
+      "src": "./assets/research/solastalgia/source-011.pdf",
+      "label": "View PDF"
+    },
+    "links": [
+      {
+        "label": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "title": "Meaning of home",
+    "fullTitle": "Meaning of home and health dynamics among younger older people in Sweden",
+    "prototype": "Prototype 2",
+    "category": "research",
+    "year": "2026",
+    "kind": "publication",
+    "orientation": "portrait",
+    "tone": "slate",
+    "image": "./assets/research/solastalgia/source-010-thumb.webp",
+    "detailImage": "./assets/research/solastalgia/source-010.webp",
+    "imageWidth": 904,
+    "imageHeight": 1200,
+    "alt": "Meaning of home and health dynamics among younger older people in Sweden — original source page preview.",
+    "author": "Maya Kylén, Charlotte Löfqvist, Maria Haak and Susanne Iwarsson",
+    "published": "2019",
+    "source": "European Journal of Ageing 16 (2019), 305–315; published 24 January 2019",
+    "website": "https://doi.org/10.1007/s10433-019-00501-5",
+    "websiteLabel": "Read original",
+    "tags": [
+      "Homesick Here",
+      "Solastalgia",
+      "book sources",
+      "articles",
+      "publication",
+      "literature",
+      "Journal article",
+      "Maya Kylén, Charlotte Löfqvist, Maria Haak and Susanne Iwarsson"
+    ],
+    "publicationType": "Journal article",
+    "book": {
+      "title": "Homesick Here",
+      "sourceId": 10,
+      "creditPage": 59
+    },
+    "previewSource": "https://link.springer.com/content/pdf/10.1007/s10433-019-00501-5.pdf",
+    "previewType": "original-pdf-page",
+    "document": {
+      "src": "./assets/research/solastalgia/source-010.pdf",
+      "label": "View PDF"
+    },
+    "links": [
+      {
+        "label": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "title": "What we speak about solastalgia",
+    "fullTitle": "What We Speak About When We Speak About Solastalgia",
+    "prototype": "Prototype 2",
+    "category": "research",
+    "year": "2026",
+    "kind": "publication",
+    "orientation": "landscape",
+    "tone": "slate",
+    "image": "./assets/research/solastalgia/source-004-thumb.webp",
+    "detailImage": "./assets/research/solastalgia/source-004.webp",
+    "imageWidth": 1200,
+    "imageHeight": 384,
+    "alt": "What We Speak About When We Speak About Solastalgia — original publication website header.",
+    "author": "Malachy Tallack",
+    "published": "2020",
+    "source": "In Antlers of Water, edited by Kathleen Jamie. Canongate, 2020",
+    "website": "https://www.malachytallack.com/solastalgia",
+    "websiteLabel": "Read original",
+    "tags": [
+      "Homesick Here",
+      "Solastalgia",
+      "book sources",
+      "articles",
+      "publication",
+      "literature",
+      "Essay",
+      "Malachy Tallack"
+    ],
+    "publicationType": "Essay",
+    "book": {
+      "title": "Homesick Here",
+      "sourceId": 4,
+      "creditPage": 60
+    },
+    "previewSource": "https://www.malachytallack.com/solastalgia",
+    "previewType": "Original publication website title and author header"
+  },
+  {
+    "id": 109,
+    "title": "Walking journeys",
+    "fullTitle": "Walking journeys into everyday climatic-affective atmospheres: The emotional labour of balancing grief and hope",
+    "prototype": "Prototype 2",
+    "category": "research",
+    "year": "2026",
+    "kind": "publication",
+    "orientation": "landscape",
+    "tone": "slate",
+    "image": "./assets/research/solastalgia/source-009-thumb.webp",
+    "detailImage": "./assets/research/solastalgia/source-009.webp",
+    "imageWidth": 1180,
+    "imageHeight": 300,
+    "alt": "Walking journeys into everyday climatic-affective atmospheres: The emotional labour of balancing grief and hope — original publication website header.",
+    "author": "Petra Tschakert, Chantal Bourgault du Coudray and Pierre Horwitz",
+    "published": "2024",
+    "source": "Environment and Planning E: Nature and Space 7(1) (February 2024), 189–211; first published online 23 May 2023",
+    "website": "https://doi.org/10.1177/25148486231173202",
+    "websiteLabel": "Read original",
+    "tags": [
+      "Homesick Here",
+      "Solastalgia",
+      "book sources",
+      "articles",
+      "publication",
+      "literature",
+      "Journal article",
+      "Petra Tschakert, Chantal Bourgault du Coudray and Pierre Horwitz"
+    ],
+    "publicationType": "Journal article",
+    "book": {
+      "title": "Homesick Here",
+      "sourceId": 9,
+      "creditPage": 60
+    },
+    "previewSource": "https://research-repository.uwa.edu.au/en/publications/walking-journeys-into-everyday-climatic-affective-atmospheres-the/",
+    "previewType": "Original publication website title and author header",
+    "links": [
+      {
+        "label": "Publication record",
+        "url": "https://research-repository.uwa.edu.au/en/publications/walking-journeys-into-everyday-climatic-affective-atmospheres-the/"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "title": "The Burning West",
+    "fullTitle": "The Burning West",
+    "prototype": "Prototype 2",
+    "category": "research",
+    "year": "2026",
+    "kind": "publication",
+    "orientation": "landscape",
+    "tone": "slate",
+    "image": "./assets/research/solastalgia/source-020-thumb.webp",
+    "detailImage": "./assets/research/solastalgia/source-020.webp",
+    "imageWidth": 720,
+    "imageHeight": 200,
+    "alt": "The Burning West — original publication website header.",
+    "author": "Claire Vaye Watkins",
+    "published": "2020",
+    "source": "The New York Review of Books, 5 November 2020 issue",
+    "website": "https://www.nybooks.com/articles/2020/11/05/the-burning-west/",
+    "websiteLabel": "Read original",
+    "tags": [
+      "Homesick Here",
+      "Solastalgia",
+      "book sources",
+      "articles",
+      "publication",
+      "literature",
+      "Review essay",
+      "Claire Vaye Watkins"
+    ],
+    "publicationType": "Review essay",
+    "book": {
+      "title": "Homesick Here",
+      "sourceId": 20,
+      "creditPage": 60
+    },
+    "previewSource": "https://www.nybooks.com/articles/2020/11/05/the-burning-west/",
+    "previewType": "Original publication website title and author header"
+  },
+  {
+    "id": 111,
+    "title": "Climate change and cultural continuity",
+    "fullTitle": "Climate change, cultural continuity and ecological grief: Insights from the Sámi Homeland",
+    "prototype": "Prototype 2",
+    "category": "research",
+    "year": "2026",
+    "kind": "publication",
+    "orientation": "portrait",
+    "tone": "slate",
+    "image": "./assets/research/solastalgia/source-025-thumb.webp",
+    "detailImage": "./assets/research/solastalgia/source-025.webp",
+    "imageWidth": 904,
+    "imageHeight": 1200,
+    "alt": "Climate change, cultural continuity and ecological grief: Insights from the Sámi Homeland — original source page preview.",
+    "author": "Inkeri Markkula, Minna Turunen, Taru Rikkonen, Sirpa Rasmus, Veina Koski and Jeffrey M. Welker",
+    "published": "2024",
+    "source": "Ambio 53, 1203–1217 (2024)",
+    "website": "https://link.springer.com/content/pdf/10.1007/s13280-024-02012-9.pdf",
+    "websiteLabel": "Read original",
+    "tags": [
+      "Homesick Here",
+      "Solastalgia",
+      "book sources",
+      "articles",
+      "publication",
+      "literature",
+      "Journal article",
+      "Inkeri Markkula, Minna Turunen, Taru Rikkonen, Sirpa Rasmus, Veina Koski and Jeffrey M. Welker"
+    ],
+    "publicationType": "Journal article",
+    "book": {
+      "title": "Homesick Here",
+      "sourceId": 25,
+      "creditPage": 61
+    },
+    "previewSource": "https://link.springer.com/content/pdf/10.1007/s13280-024-02012-9.pdf",
+    "previewType": "Full first page of original publisher PDF",
+    "document": {
+      "src": "./assets/research/solastalgia/source-025.pdf",
+      "label": "View PDF"
+    },
+    "links": [
+      {
+        "label": "CC BY 4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Family farmers’ sense of place",
+    "fullTitle": "Climate change threats to family farmers’ sense of place and mental wellbeing: A case study from the Western Australian Wheatbelt",
+    "prototype": "Prototype 2",
+    "category": "research",
+    "year": "2026",
+    "kind": "publication",
+    "orientation": "portrait",
+    "tone": "slate",
+    "image": "./assets/research/solastalgia/source-005-thumb.webp",
+    "detailImage": "./assets/research/solastalgia/source-005.webp",
+    "imageWidth": 1036,
+    "imageHeight": 1200,
+    "alt": "Climate change threats to family farmers’ sense of place and mental wellbeing: A case study from the Western Australian Wheatbelt — original source page preview.",
+    "author": "Neville R. Ellis and Glenn A. Albrecht",
+    "published": "2017",
+    "source": "Social Science & Medicine 175 (2017), 161–168",
+    "website": "https://doi.org/10.1016/j.socscimed.2017.01.009",
+    "websiteLabel": "Read original",
+    "tags": [
+      "Homesick Here",
+      "Solastalgia",
+      "book sources",
+      "articles",
+      "publication",
+      "literature",
+      "Journal article",
+      "Neville R. Ellis and Glenn A. Albrecht"
+    ],
+    "publicationType": "Journal article",
+    "book": {
+      "title": "Homesick Here",
+      "sourceId": 5,
+      "creditPage": 61
+    },
+    "previewSource": "https://researchportal.murdoch.edu.au/esploro/outputs/journalArticle/Climate-change-threats-to-family-farmers/991005545413707891",
+    "previewType": "Accepted manuscript title page; full PDF page 3 after two repository cover pages"
+  },
+  {
+    "id": 113,
+    "title": "Arctic solastalgia",
+    "fullTitle": "‘Solastalgia’: Arctic inhabitants overwhelmed by new form of climate grief",
+    "prototype": "Prototype 2",
+    "category": "research",
+    "year": "2026",
+    "kind": "publication",
+    "orientation": "landscape",
+    "tone": "slate",
+    "image": "./assets/research/solastalgia/source-026-thumb.webp",
+    "detailImage": "./assets/research/solastalgia/source-026.webp",
+    "imageWidth": 720,
+    "imageHeight": 125,
+    "alt": "‘Solastalgia’: Arctic inhabitants overwhelmed by new form of climate grief — original publication website header.",
+    "author": "Ossie Michelin",
+    "published": "2020",
+    "source": "The Guardian, 15 October 2020; updated 25 August 2021",
+    "website": "https://www.theguardian.com/us-news/2020/oct/15/arctic-solastalgia-climate-crisis-inuit-indigenous",
+    "websiteLabel": "Read original",
+    "tags": [
+      "Homesick Here",
+      "Solastalgia",
+      "book sources",
+      "articles",
+      "publication",
+      "literature",
+      "News feature",
+      "Ossie Michelin"
+    ],
+    "publicationType": "News feature",
+    "book": {
+      "title": "Homesick Here",
+      "sourceId": 26,
+      "creditPage": 62
+    },
+    "previewSource": "https://www.theguardian.com/us-news/2020/oct/15/arctic-solastalgia-climate-crisis-inuit-indigenous",
+    "previewType": "Original publication website title header"
+  },
+  {
+    "id": 114,
+    "title": "Solastalgia to Soliphilia",
+    "fullTitle": "Solastalgia to Soliphilia: Cultural Fire, Climate Change, and Indigenous Healing",
+    "prototype": "Prototype 2",
+    "category": "research",
+    "year": "2026",
+    "kind": "publication",
+    "orientation": "portrait",
+    "tone": "slate",
+    "image": "./assets/research/solastalgia/source-024-thumb.webp",
+    "detailImage": "./assets/research/solastalgia/source-024.webp",
+    "imageWidth": 928,
+    "imageHeight": 1200,
+    "alt": "Solastalgia to Soliphilia: Cultural Fire, Climate Change, and Indigenous Healing — original source page preview.",
+    "author": "Erica Tom, Melinda M. Adams and Ron W. Goode",
+    "published": "2023",
+    "source": "Ecopsychology 15(4), 322–330 (December 2023); first online 15 May 2023",
+    "website": "https://static1.squarespace.com/static/5ea4a2778a22135afc733499/t/67f3e3559fb2d4739adcc14f/1744036693994/Solastalgia%2Bto%2BSoliphilia%2B2023.pdf",
+    "websiteLabel": "Read original",
+    "tags": [
+      "Homesick Here",
+      "Solastalgia",
+      "book sources",
+      "articles",
+      "publication",
+      "literature",
+      "Journal article",
+      "Erica Tom, Melinda M. Adams and Ron W. Goode"
+    ],
+    "publicationType": "Journal article",
+    "book": {
+      "title": "Homesick Here",
+      "sourceId": 24,
+      "creditPage": 62
+    },
+    "previewSource": "https://static1.squarespace.com/static/5ea4a2778a22135afc733499/t/67f3e3559fb2d4739adcc14f/1744036693994/Solastalgia%2Bto%2BSoliphilia%2B2023.pdf",
+    "previewType": "Full first page of publisher advance PDF hosted by author"
+  },
+  {
+    "id": 115,
+    "title": "A necessary voice",
+    "fullTitle": "A necessary voice: Climate change and lived experiences of youth in Rigolet, Nunatsiavut, Canada",
+    "prototype": "Prototype 2",
+    "category": "research",
+    "year": "2026",
+    "kind": "publication",
+    "orientation": "portrait",
+    "tone": "slate",
+    "image": "./assets/research/solastalgia/source-027-thumb.webp",
+    "detailImage": "./assets/research/solastalgia/source-027.webp",
+    "imageWidth": 901,
+    "imageHeight": 1200,
+    "alt": "A necessary voice: Climate change and lived experiences of youth in Rigolet, Nunatsiavut, Canada — original source page preview.",
+    "author": "Joanna Petrasek MacDonald, Sherilee L. Harper, Ashlee Cunsolo Willox, Victoria L. Edge and Rigolet Inuit Community Government",
+    "published": "2013",
+    "source": "Global Environmental Change 23(1), 360–371 (2013); accepted 29 July 2012",
+    "website": "https://ashleecunsolo.ca/wp-content/uploads/2010/12/a-necessary-voice_petrasek-macdonald-2012.pdf",
+    "websiteLabel": "Read original",
+    "tags": [
+      "Homesick Here",
+      "Solastalgia",
+      "book sources",
+      "articles",
+      "publication",
+      "literature",
+      "Journal article",
+      "Joanna Petrasek MacDonald, Sherilee L. Harper, Ashlee Cunsolo Willox, Victoria L. Edge and Rigolet Inuit Community Government"
+    ],
+    "publicationType": "Journal article",
+    "book": {
+      "title": "Homesick Here",
+      "sourceId": 27,
+      "creditPage": 63
+    },
+    "previewSource": "https://ashleecunsolo.ca/wp-content/uploads/2010/12/a-necessary-voice_petrasek-macdonald-2012.pdf",
+    "previewType": "Full first page of publisher advance PDF hosted by co-author"
+  },
+  {
+    "id": 116,
+    "title": "Place matters",
+    "fullTitle": "Place matters",
+    "prototype": "Prototype 2",
+    "category": "research",
+    "year": "2026",
+    "kind": "publication",
+    "orientation": "portrait",
+    "tone": "slate",
+    "image": "./assets/research/solastalgia/source-008-thumb.webp",
+    "detailImage": "./assets/research/solastalgia/source-008.webp",
+    "imageWidth": 849,
+    "imageHeight": 1200,
+    "alt": "Place matters — original source page preview.",
+    "author": "Mae Proudley",
+    "published": "2013",
+    "source": "Australian Journal of Emergency Management 28(2) (April 2013), 11–16",
+    "website": "https://knowledge.aidr.org.au/resources/ajem-apr-2013-place-matters/",
+    "websiteLabel": "Read original",
+    "tags": [
+      "Homesick Here",
+      "Solastalgia",
+      "book sources",
+      "articles",
+      "publication",
+      "literature",
+      "Journal article",
+      "Mae Proudley"
+    ],
+    "publicationType": "Journal article",
+    "book": {
+      "title": "Homesick Here",
+      "sourceId": 8,
+      "creditPage": 63
+    },
+    "previewSource": "https://knowledge.aidr.org.au/media/2291/ajem-28-02-03.pdf",
+    "previewType": "original-pdf-first-page",
+    "document": {
+      "src": "./assets/research/solastalgia/source-008.pdf",
+      "label": "View PDF"
+    },
+    "links": [
+      {
+        "label": "CC BY 3.0 Australia",
+        "url": "https://creativecommons.org/licenses/by/3.0/au/"
+      }
+    ]
   }
 ];

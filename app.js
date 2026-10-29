@@ -1,4 +1,4 @@
-import { entries } from './data.js?v=b2d08db02768';
+import { entries } from './data.js?v=389df72c14e4';
 
 const categories = ['research', 'notes', 'reference', 'iterations'];
 const years = ['2026', '2027'];
